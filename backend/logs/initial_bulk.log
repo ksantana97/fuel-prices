@@ -1,0 +1,38 @@
+2024-11-27 22:17:49,988 - initial_bulk - INFO - Initial bulk of dimensions
+2024-11-27 22:17:50,129 - initial_bulk - INFO - DimDate loaded
+2024-11-27 22:17:50,131 - initial_bulk - INFO - DimProduct loaded
+2024-11-27 22:17:50,131 - initial_bulk - INFO - DimMoment loaded
+2024-11-27 22:17:50,179 - initial_bulk - INFO - DimStation loaded
+2024-11-29 20:08:22,885 - initial_bulk - INFO - Initial bulk of dimensions
+2024-11-29 20:08:23,032 - initial_bulk - INFO - DimDate loaded
+2024-11-29 20:08:23,034 - initial_bulk - INFO - DimProduct loaded
+2024-11-29 20:08:23,035 - initial_bulk - INFO - DimMoment loaded
+2024-11-29 20:08:23,045 - initial_bulk - ERROR - Error during DimStation bulking: 'StationIsland'
+2024-11-29 20:11:29,434 - initial_bulk - INFO - Initial bulk of dimensions
+2024-11-29 20:11:29,581 - initial_bulk - INFO - DimDate loaded
+2024-11-29 20:11:29,583 - initial_bulk - INFO - DimProduct loaded
+2024-11-29 20:11:29,584 - initial_bulk - INFO - DimMoment loaded
+2024-11-29 20:11:29,595 - initial_bulk - ERROR - Error during DimStation bulking: 'StationIsland'
+2024-11-29 20:11:49,481 - initial_bulk - INFO - Initial bulk of dimensions
+2024-11-29 20:11:49,638 - initial_bulk - INFO - DimDate loaded
+2024-11-29 20:11:49,639 - initial_bulk - INFO - DimProduct loaded
+2024-11-29 20:11:49,640 - initial_bulk - INFO - DimMoment loaded
+2024-11-29 20:11:49,649 - initial_bulk - ERROR - Error during DimStation bulking: 'StationLatitude'
+2024-11-29 20:12:36,394 - initial_bulk - INFO - Initial bulk of dimensions
+2024-11-29 20:12:36,538 - initial_bulk - INFO - DimDate loaded
+2024-11-29 20:12:36,540 - initial_bulk - INFO - DimProduct loaded
+2024-11-29 20:12:36,541 - initial_bulk - INFO - DimMoment loaded
+2024-11-29 20:12:36,600 - initial_bulk - ERROR - Error during DimStation bulking: (sqlite3.OperationalError) table dimstation has no column named StationIsland
+[SQL: INSERT INTO dimstation ("StationID", "StationName", "StationAddress", "StationPostalCode", "StationLatitude", "StationLongitude", "StationLocation", "StationMunicipality", "StationMunicipalityID", "StationProvince", "StationProvinceID", "StationAC", "StationACID", "StationIsland", "StationIslandID", "CreatedAt") VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)]
+[parameters: [(7764, 'CEPSA AGAETE', 'CALLE LEON Y CASTILLO, 47', '35480', 28.101861, -15.702083, 'AGAETE', 'AGAETE', 5233, 'LAS PALMAS', 35, 'CANARIAS', 5, 'GRAN CANARIA', 1, '2024-11-29 20:12:36.382057'), (7901, 'DISA AGAETE', 'CARRETERA CTRA GENERAL DEL NORTE KM. 35,800', '35480', 28.104056, -15.700389, 'AGAETE', 'AGAETE', 5233, 'LAS PALMAS', 35, 'CANARIAS', 5, 'GRAN CANARIA', 1, '2024-11-29 20:12:36.382057'), (8711, 'DISA AUTOPISTA KM 21', 'AUTOPISTA GC-1 KM. 21', '35260', 27.899167, -15.404722, 'AGÜIMES', 'AGÜIMES', 5234, 'LAS PALMAS', 35, 'CANARIAS', 5, 'GRAN CANARIA', 1, '2024-11-29 20:12:36.382057'), (7907, 'DISA AGÜIMES', 'CALLE JUAN ALVARADO Y SANZ, 79', '35260', 27.904056, -15.444806, 'AGÜIMES', 'AGÜIMES', 5234, 'LAS PALMAS', 35, 'CANARIAS', 5, 'GRAN CANARIA', 1, '2024-11-29 20:12:36.382057'), (7922, 'CEPSA CRUCE DE ARINAGA', 'CALLE ANSITE, 100', '35260', 27.876333, -15.426333, 'AGÜIMES', 'AGÜIMES', 5234, 'LAS PALMAS', 35, 'CANARIAS', 5, 'GRAN CANARIA', 1, '2024-11-29 20:12:36.382057'), (13663, 'BP KM 13 CRUCE ARINAGA', 'CALLE FRESADORA, S/N', '35118', 27.874889, -15.423194, 'CRUCE DE ARINAGA', 'AGÜIMES', 5234, 'LAS PALMAS', 35, 'CANARIAS', 5, 'GRAN CANARIA', 1, '2024-11-29 20:12:36.382057'), (7704, 'PLENOIL AGÜIMES II', 'CALLE ANSITE, 33', '35118', 27.879611, -15.429972, 'CRUCE DE ARINAGA', 'AGÜIMES', 5234, 'LAS PALMAS', 35, 'CANARIAS', 5, 'GRAN CANARIA', 1, '2024-11-29 20:12:36.382057'), (11499, 'REPSOL ARINAGA', 'CALLE CANAL DERECHA, S/N', '35118', 27.862222, -15.417778, 'POLÍGONO RESIDENCIAL DE ARINAGA', 'AGÜIMES', 5234, 'LAS PALMAS', 35, 'CANARIAS', 5, 'GRAN CANARIA', 1, '2024-11-29 20:12:36.382057')  ... displaying 10 of 483 total bound parameter sets ...  (7951, 'DISA VILAFLOR', 'CARRETERA CARRETERA GENERAL 821 KM. 68,80', '38613', 28.153028, -16.640167, 'VILAFLOR', 'VILAFLOR', 5742, 'SANTA CRUZ DE TENERIFE', 38, 'CANARIAS', 5, 'TENERIFE', 2, '2024-11-29 20:12:36.382057'), (7848, 'DISA AEROPUERTO LA PALMA', 'LODERO S/N (AEROPUERTO -MAZO KM 5)', '38739', 28.619056, -17.752667, 'LODERO', 'VILLA DE MAZO', 5743, 'SANTA CRUZ DE TENERIFE', 38, 'CANARIAS', 5, 'LA PALMA', 5, '2024-11-29 20:12:36.382057')]]
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2024-11-29 20:15:03,108 - initial_bulk - INFO - Initial bulk of dimensions
+2024-11-29 20:15:03,254 - initial_bulk - INFO - DimDate loaded
+2024-11-29 20:15:03,256 - initial_bulk - INFO - DimProduct loaded
+2024-11-29 20:15:03,257 - initial_bulk - INFO - DimMoment loaded
+2024-11-29 20:15:03,325 - initial_bulk - INFO - DimStation loaded
+2024-11-29 21:36:42,553 - initial_bulk - INFO - Initial bulk of dimensions
+2024-11-29 21:36:42,696 - initial_bulk - INFO - DimDate loaded
+2024-11-29 21:36:42,697 - initial_bulk - INFO - DimProduct loaded
+2024-11-29 21:36:42,698 - initial_bulk - INFO - DimMoment loaded
+2024-11-29 21:36:42,759 - initial_bulk - INFO - DimStation loaded

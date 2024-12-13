@@ -1,0 +1,66 @@
+2024-11-27 22:17:53,444 - daily_task - INFO - Connected to database
+2024-11-27 22:17:53,449 - daily_task - INFO - dimdate successfully read
+2024-11-27 22:17:53,451 - daily_task - INFO - dimstation successfully read
+2024-11-27 22:17:53,451 - daily_task - INFO - dimproduct successfully read
+2024-11-27 22:17:53,451 - daily_task - INFO - dimmoment successfully read
+2024-11-27 22:17:58,880 - daily_task - INFO - Retrieved info from api successfully
+2024-11-27 22:17:58,882 - daily_task - INFO - Creating facts
+2024-11-27 22:17:58,904 - daily_task - INFO - 16106 is a canary station and it is not in our database
+2024-11-27 22:17:58,915 - daily_task - INFO - 16164 is a canary station and it is not in our database
+2024-11-27 22:17:58,970 - daily_task - INFO - 16124 is a canary station and it is not in our database
+2024-11-27 22:17:59,020 - daily_task - INFO - 16132 is a canary station and it is not in our database
+2024-11-27 22:17:59,083 - daily_task - INFO - Loading facts in database
+2024-11-29 20:15:24,729 - daily_task - INFO - Connected to database
+2024-11-29 20:15:24,735 - daily_task - INFO - dimdate successfully read
+2024-11-29 20:15:24,737 - daily_task - INFO - dimstation successfully read
+2024-11-29 20:15:24,737 - daily_task - INFO - dimproduct successfully read
+2024-11-29 20:15:24,738 - daily_task - INFO - dimmoment successfully read
+2024-11-29 20:15:30,435 - daily_task - INFO - Retrieved info from api successfully
+2024-11-29 20:15:30,437 - daily_task - INFO - Creating facts
+2024-11-29 20:15:30,458 - daily_task - INFO - 16106 is a canary station and it is not in our database
+2024-11-29 20:15:30,469 - daily_task - INFO - 16164 is a canary station and it is not in our database
+2024-11-29 20:15:30,542 - daily_task - INFO - 16124 is a canary station and it is not in our database
+2024-11-29 20:15:30,574 - daily_task - INFO - 16132 is a canary station and it is not in our database
+2024-11-29 20:15:30,640 - daily_task - INFO - Loading facts in database
+2024-11-29 21:36:59,628 - daily_task - INFO - Connected to database
+2024-11-29 21:36:59,634 - daily_task - INFO - dimdate successfully read
+2024-11-29 21:36:59,636 - daily_task - INFO - dimstation successfully read
+2024-11-29 21:36:59,637 - daily_task - INFO - dimproduct successfully read
+2024-11-29 21:36:59,637 - daily_task - INFO - dimmoment successfully read
+2024-11-29 21:37:05,221 - daily_task - INFO - Retrieved info from api successfully
+2024-11-29 21:37:05,222 - daily_task - INFO - Creating facts
+2024-11-29 21:37:05,243 - daily_task - INFO - 16106 is a canary station and it is not in our database
+2024-11-29 21:37:05,254 - daily_task - INFO - 16164 is a canary station and it is not in our database
+2024-11-29 21:37:05,328 - daily_task - INFO - 16124 is a canary station and it is not in our database
+2024-11-29 21:37:05,360 - daily_task - INFO - 16132 is a canary station and it is not in our database
+2024-11-29 21:37:05,423 - daily_task - INFO - Loading facts in database
+2024-12-10 21:08:08,434 - daily_task - INFO - Connected to database
+2024-12-10 21:08:08,443 - daily_task - INFO - dimdate successfully read
+2024-12-10 21:08:08,446 - daily_task - INFO - dimstation successfully read
+2024-12-10 21:08:08,447 - daily_task - INFO - dimproduct successfully read
+2024-12-10 21:08:08,447 - daily_task - INFO - dimmoment successfully read
+2024-12-10 21:08:14,214 - daily_task - INFO - Retrieved info from api successfully
+2024-12-10 21:08:14,219 - daily_task - INFO - Creating facts
+2024-12-10 21:08:14,241 - daily_task - INFO - 7803 is a canary station and it is not in our database
+2024-12-10 21:08:14,242 - daily_task - INFO - 16106 is a canary station and it is not in our database
+2024-12-10 21:08:14,243 - daily_task - INFO - 10462 is a canary station and it is not in our database
+2024-12-10 21:08:14,253 - daily_task - INFO - 16164 is a canary station and it is not in our database
+2024-12-10 21:08:14,323 - daily_task - INFO - 16124 is a canary station and it is not in our database
+2024-12-10 21:08:14,339 - daily_task - INFO - 16177 is a canary station and it is not in our database
+2024-12-10 21:08:14,353 - daily_task - INFO - 16132 is a canary station and it is not in our database
+2024-12-10 21:08:14,420 - daily_task - INFO - Loading facts in database
+2024-12-13 19:00:53,812 - daily_task - INFO - Connected to database
+2024-12-13 19:00:53,817 - daily_task - INFO - dimdate successfully read
+2024-12-13 19:00:53,820 - daily_task - INFO - dimstation successfully read
+2024-12-13 19:00:53,821 - daily_task - INFO - dimproduct successfully read
+2024-12-13 19:00:53,821 - daily_task - INFO - dimmoment successfully read
+2024-12-13 19:00:59,551 - daily_task - INFO - Retrieved info from api successfully
+2024-12-13 19:00:59,555 - daily_task - INFO - Creating facts
+2024-12-13 19:00:59,575 - daily_task - INFO - 10462 is a canary station and it is not in our database
+2024-12-13 19:00:59,577 - daily_task - INFO - 7803 is a canary station and it is not in our database
+2024-12-13 19:00:59,577 - daily_task - INFO - 16106 is a canary station and it is not in our database
+2024-12-13 19:00:59,589 - daily_task - INFO - 16164 is a canary station and it is not in our database
+2024-12-13 19:00:59,664 - daily_task - INFO - 16124 is a canary station and it is not in our database
+2024-12-13 19:00:59,678 - daily_task - INFO - 16177 is a canary station and it is not in our database
+2024-12-13 19:00:59,695 - daily_task - INFO - 16132 is a canary station and it is not in our database
+2024-12-13 19:00:59,761 - daily_task - INFO - Loading facts in database
